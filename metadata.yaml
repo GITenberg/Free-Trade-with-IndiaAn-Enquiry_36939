@@ -1,0 +1,29 @@
+_repo: Free-Trade-with-IndiaAn-Enquiry_36939
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Common sense (Writer), active 1813
+    gutenberg_agent_id: '38549'
+    url: http://www.gutenberg.org/2009/agents/38549
+description: ''
+gutenberg_issued: '2011-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36939'
+  lccn: '95844840'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Commerce -- India'
+- !lcsh 'India -- Commerce -- Great Britain'
+- !lcc 'HF'
+- !lcsh 'East India Company'
+title: "Free Trade with India\r\nAn Enquiry into the True State of the Question at\
+  \ Issue Between His Majesty's Ministers, the Honorable the East India Company, and\
+  \ the Public at Large, on the Justice and Policy of a Free Trade to India"
+url: http://www.gutenberg.org/ebooks/36939
